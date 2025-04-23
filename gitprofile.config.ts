@@ -83,20 +83,11 @@ const CONFIG = {
       'https://github.com/jsada1/jsada1.github.io/raw/main/SadaCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Bioinformatics',
+    'Agarose Gel',
+    'Aseptic Techniques',
+    'Bacteria Isolation',
+    'Gram Staining',
   ],
   experiences: [
     {
@@ -124,16 +115,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University, Stanislaus',
+      degree: 'B.S. in Biological Sciences',
+      from: '2021',
+      to: '2025',
     },
   ],
   publications: [
