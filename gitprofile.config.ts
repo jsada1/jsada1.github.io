@@ -91,18 +91,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Memorial Medical Center - Emergency Department',
+      position: 'Medical Scribe',
+      from: 'November 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.vituity.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'California State University, Stanislaus - Learning Commons',
+      position: 'Peer Tutor',
+      from: 'August 2022',
+      to: 'December 2023',
+      companyLink: 'https://www.csustan.edu/learning-commons',
     },
   ],
   certifications: [
