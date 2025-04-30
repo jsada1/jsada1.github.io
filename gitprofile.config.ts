@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Disease Presentation: DiGeorge Syndrome',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Presentation that informs students on the genetic disease called DiGeorge Syndrome',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/jsada1/jsada1.github.io/blob/main/digeorge.png',
+          link: 'https://github.com/jsada1/jsada1.github.io/blob/main/Disease%20Presentation_%20DiGeorge%20Syndrome.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Arrhythmias',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Presentation that informs students on a heart condition called arrhythmia',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/jsada1/jsada1.github.io/blob/main/arrhythmias.png',
+          link: 'https://github.com/jsada1/jsada1.github.io/blob/main/Arrhythmias.pdf',
         },
       ],
     },
