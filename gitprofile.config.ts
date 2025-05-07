@@ -84,10 +84,10 @@ const CONFIG = {
   },
   skills: [
     'Bioinformatics',
-    'Agarose Gel',
     'Aseptic Techniques',
     'Bacteria Isolation',
-    'Gram Staining',
+    'Typing Speed of 120 WPM',
+    'Bilingual in Assyrian and English',
   ],
   experiences: [
     {
@@ -108,7 +108,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'BLS Provider Certification',
-      body: 'Lorem ipsum dolor sit amet',
+      body: 'Training and Certification in Basic Life Support',
       year: 'May 2023',
       link: '',
     },
